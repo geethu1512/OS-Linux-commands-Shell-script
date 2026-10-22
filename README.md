@@ -764,6 +764,7 @@ $ chmod 755 elifcheck.sh
  
 $ ./elifcheck.sh 
 ## OUTPUT
+<img width="298" height="95" alt="image" src="https://github.com/user-attachments/assets/8f062bf3-75ad-4871-9849-1e91bf283487" />
 
 
 # testing compound comparisons
@@ -780,6 +781,7 @@ fi
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
+<img width="357" height="91" alt="image" src="https://github.com/user-attachments/assets/c4f907f4-7643-416a-aced-e5578697008e" />
 
 # using the case command
 cat >casecheck.sh 
@@ -799,7 +801,8 @@ esac
 $ chmod 755 casecheck.sh 
  
 $ ./casecheck.sh 
- 
+ <img width="311" height="88" alt="image" src="https://github.com/user-attachments/assets/4bb642c5-a32a-477c-8332-bc99c36da783" />
+
 cat > whiletest
 ```bash
 #!/bin/bash
@@ -814,7 +817,8 @@ done
 $ chmod 755 whiletest.sh
  
 $ ./whiletest.sh
- 
+ <img width="287" height="222" alt="image" src="https://github.com/user-attachments/assets/547b72e9-ca2f-4378-aa69-88f97a37d132" />
+
  
 cat untiltest.sh 
 ```bash
@@ -828,7 +832,8 @@ done
 ``` 
 $ chmod 755 untiltest.sh
  
- 
+ <img width="262" height="137" alt="image" src="https://github.com/user-attachments/assets/926356db-1c3c-47ca-b4c3-6efa333fa7e7" />
+
  
 cat forin1.sh 
 ```bash
@@ -842,7 +847,8 @@ done
  
 $ chmod 755 forin1.sh
  
- 
+ <img width="257" height="172" alt="image" src="https://github.com/user-attachments/assets/6af6fb8e-c173-47fc-8b5e-079b5e788ad0" />
+
 cat forin2.sh 
 ```bash
 \#!/bin/bash
@@ -867,7 +873,8 @@ done
 $ chmod 755 forin2.sh
  
 $ ./forin2.sh 
- 
+ <img width="242" height="113" alt="image" src="https://github.com/user-attachments/assets/e71f20c2-490a-4fc8-97f0-66c9d97da7f2" />
+
 cat forin3.sh 
 ```bash
 \#!/bin/bash
@@ -878,7 +885,8 @@ echo "word:$test"
 done
 ```
 $ ./forin3.sh 
- 
+ <img width="247" height="165" alt="image" src="https://github.com/user-attachments/assets/aa341f7d-3e63-4c0d-8232-80f87d38450e" />
+
 cat forin1.sh 
 ```bash
 #!/bin/bash
@@ -889,6 +897,7 @@ echo The next state is $test
 done
 ```
 $ chmod 755 forin1.sh
+<img width="256" height="147" alt="image" src="https://github.com/user-attachments/assets/a6826aeb-8d1a-4815-950e-4097dd70c6ba" />
 
 ## OUTPUT
 cat forinfile.sh 
@@ -912,6 +921,7 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
+<img width="307" height="185" alt="image" src="https://github.com/user-attachments/assets/561c0648-dd2d-468a-a527-b1d400172419" />
 
 
 cat forctype.sh 
@@ -926,6 +936,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+<img width="260" height="152" alt="image" src="https://github.com/user-attachments/assets/7c7049f3-c63e-4dcc-b981-bf0250b3a27e" />
 
 cat forctype1.sh 
 ```bash
@@ -957,6 +968,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
+<img width="297" height="275" alt="image" src="https://github.com/user-attachments/assets/ed5ffb4a-d0f5-4ac4-925b-c77397b29818" />
 
  
 cat forbreak.sh 
@@ -978,7 +990,8 @@ echo "The for loop is completed“
 $ chmod 755 forbreak.sh
  
 $ ./forbreak.sh 
- 
+ <img width="278" height="115" alt="image" src="https://github.com/user-attachments/assets/b6a1a544-e20b-4d8d-95fc-dbb66d5fd477" />
+
 cat forbreak.sh 
 ```bash
 #!/bin/bash
@@ -999,7 +1012,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+ <img width="282" height="152" alt="image" src="https://github.com/user-attachments/assets/f8e75cdf-061e-4a9c-93c4-ec417242047b" />
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1013,6 +1027,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="286" height="76" alt="image" src="https://github.com/user-attachments/assets/fbadd19f-75f6-4cdd-900a-c07b79d5bd43" />
 
 
  cat exread1.sh
@@ -1125,7 +1140,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ <img width="280" height="102" alt="image" src="https://github.com/user-attachments/assets/258d3d9e-5263-45ad-b79a-c18f26e539a5" />
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1153,6 +1169,7 @@ fi
 ```
 ## OUTPUT 
 
+<img width="277" height="118" alt="image" src="https://github.com/user-attachments/assets/a9603219-ac43-4d0d-9a99-1bde6f87bc22" />
 
 # RESULT:
 The Commands are executed successfully.
